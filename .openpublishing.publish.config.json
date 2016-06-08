@@ -4,8 +4,8 @@
   "docsets_to_publish": [
     {
       "docset_name": "DependencyDoc",
-      "build_source_folder": "DependencyDoc-internal",
-      "build_output_subfolder": "DependencyDoc-internal",
+      "build_source_folder": "DependencyDoc",
+      "build_output_subfolder": "DependencyDoc",
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": true,
