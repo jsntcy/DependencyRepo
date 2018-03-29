@@ -1,7 +1,7 @@
 {
     "redirections": [
         {
-            "source_path": "ApplicationGateways.md",
+            "source_path": "DependencyDoc/ApplicationGateways.md",
             "redirect_url": "/rest/api/application-gateway/",
             "redirect_document_id": true
         }]
