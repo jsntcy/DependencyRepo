@@ -3,6 +3,6 @@
         {
             "source_path": "ApplicationGateways.md",
             "redirect_url": "/rest/api/application-gateway/",
-            "redirect_document_id": false
+            "redirect_document_id": true
         }]
         }
